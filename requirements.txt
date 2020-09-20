@@ -1,2 +1,5 @@
 adafruit-circuitpython-neopixel
+adafruit-circuitpython-pypixelbuf
 numpy
+pygame
+asyncio
